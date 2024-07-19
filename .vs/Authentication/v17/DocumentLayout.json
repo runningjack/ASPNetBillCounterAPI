@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\ASPNetBillCounterAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C845E12-C93F-4D07-80C1-B63841D1D8D4}|WpfAppBillCounter\\WpfAppBillCounter.csproj|c:\\users\\dell\\source\\aspnetbillcounterapi\\wpfappbillcounter\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C845E12-C93F-4D07-80C1-B63841D1D8D4}|WpfAppBillCounter\\WpfAppBillCounter.csproj|solutionrelative:wpfappbillcounter\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C845E12-C93F-4D07-80C1-B63841D1D8D4}|WpfAppBillCounter\\WpfAppBillCounter.csproj|c:\\users\\dell\\source\\aspnetbillcounterapi\\wpfappbillcounter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C845E12-C93F-4D07-80C1-B63841D1D8D4}|WpfAppBillCounter\\WpfAppBillCounter.csproj|solutionrelative:wpfappbillcounter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C845E12-C93F-4D07-80C1-B63841D1D8D4}|WpfAppBillCounter\\WpfAppBillCounter.csproj|c:\\users\\dell\\source\\aspnetbillcounterapi\\wpfappbillcounter\\views\\newtransactionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C845E12-C93F-4D07-80C1-B63841D1D8D4}|WpfAppBillCounter\\WpfAppBillCounter.csproj|solutionrelative:wpfappbillcounter\\views\\newtransactionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C845E12-C93F-4D07-80C1-B63841D1D8D4}|WpfAppBillCounter\\WpfAppBillCounter.csproj|c:\\users\\dell\\source\\aspnetbillcounterapi\\wpfappbillcounter\\views\\addnewcustomerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C845E12-C93F-4D07-80C1-B63841D1D8D4}|WpfAppBillCounter\\WpfAppBillCounter.csproj|solutionrelative:wpfappbillcounter\\views\\addnewcustomerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C845E12-C93F-4D07-80C1-B63841D1D8D4}|WpfAppBillCounter\\WpfAppBillCounter.csproj|c:\\users\\dell\\source\\aspnetbillcounterapi\\wpfappbillcounter\\viewmodels\\addnewcustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C845E12-C93F-4D07-80C1-B63841D1D8D4}|WpfAppBillCounter\\WpfAppBillCounter.csproj|solutionrelative:wpfappbillcounter\\viewmodels\\addnewcustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C845E12-C93F-4D07-80C1-B63841D1D8D4}|WpfAppBillCounter\\WpfAppBillCounter.csproj|c:\\users\\dell\\source\\aspnetbillcounterapi\\wpfappbillcounter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C845E12-C93F-4D07-80C1-B63841D1D8D4}|WpfAppBillCounter\\WpfAppBillCounter.csproj|solutionrelative:wpfappbillcounter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C845E12-C93F-4D07-80C1-B63841D1D8D4}|WpfAppBillCounter\\WpfAppBillCounter.csproj|c:\\users\\dell\\source\\aspnetbillcounterapi\\wpfappbillcounter\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C845E12-C93F-4D07-80C1-B63841D1D8D4}|WpfAppBillCounter\\WpfAppBillCounter.csproj|solutionrelative:wpfappbillcounter\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C845E12-C93F-4D07-80C1-B63841D1D8D4}|WpfAppBillCounter\\WpfAppBillCounter.csproj|c:\\users\\dell\\source\\aspnetbillcounterapi\\wpfappbillcounter\\models\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C845E12-C93F-4D07-80C1-B63841D1D8D4}|WpfAppBillCounter\\WpfAppBillCounter.csproj|solutionrelative:wpfappbillcounter\\models\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewTransactionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\ASPNetBillCounterAPI\\WpfAppBillCounter\\Views\\NewTransactionWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppBillCounter\\Views\\NewTransactionWindow.xaml",
+              "ToolTip": "C:\\Users\\DELL\\source\\ASPNetBillCounterAPI\\WpfAppBillCounter\\Views\\NewTransactionWindow.xaml",
+              "RelativeToolTip": "WpfAppBillCounter\\Views\\NewTransactionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-16T14:16:43.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\ASPNetBillCounterAPI\\WpfAppBillCounter\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppBillCounter\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\ASPNetBillCounterAPI\\WpfAppBillCounter\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppBillCounter\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAEwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:24:10.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\ASPNetBillCounterAPI\\WpfAppBillCounter\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppBillCounter\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\ASPNetBillCounterAPI\\WpfAppBillCounter\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "WpfAppBillCounter\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:38:05.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddNewCustomerView.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\ASPNetBillCounterAPI\\WpfAppBillCounter\\Views\\AddNewCustomerView.xaml",
+              "RelativeDocumentMoniker": "WpfAppBillCounter\\Views\\AddNewCustomerView.xaml",
+              "ToolTip": "C:\\Users\\DELL\\source\\ASPNetBillCounterAPI\\WpfAppBillCounter\\Views\\AddNewCustomerView.xaml",
+              "RelativeToolTip": "WpfAppBillCounter\\Views\\AddNewCustomerView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-16T08:26:25.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\ASPNetBillCounterAPI\\WpfAppBillCounter\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppBillCounter\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\DELL\\source\\ASPNetBillCounterAPI\\WpfAppBillCounter\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppBillCounter\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-16T07:52:00.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddNewCustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\ASPNetBillCounterAPI\\WpfAppBillCounter\\ViewModels\\AddNewCustomerViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppBillCounter\\ViewModels\\AddNewCustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\ASPNetBillCounterAPI\\WpfAppBillCounter\\ViewModels\\AddNewCustomerViewModel.cs",
+              "RelativeToolTip": "WpfAppBillCounter\\ViewModels\\AddNewCustomerViewModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:47:57.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\ASPNetBillCounterAPI\\WpfAppBillCounter\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "WpfAppBillCounter\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\ASPNetBillCounterAPI\\WpfAppBillCounter\\Models\\MenuItem.cs",
+              "RelativeToolTip": "WpfAppBillCounter\\Models\\MenuItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:41:17.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\ASPNetBillCounterAPI\\WpfAppBillCounter\\Models\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WpfAppBillCounter\\Models\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\ASPNetBillCounterAPI\\WpfAppBillCounter\\Models\\RelayCommand.cs",
+              "RelativeToolTip": "WpfAppBillCounter\\Models\\RelayCommand.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:52:12.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
