@@ -120,23 +120,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\ASPNetBillCounterAPI\\Naxxum.JobyHunter.Authentication.Domain\\Authentication.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\projects\\ASPNetBillCounterAPI\\Naxxum.JobyHunter.Authentication.Domain\\Authentication.Domain.csproj",
       "projectName": "Authentication.Domain",
-      "projectPath": "C:\\Users\\DELL\\source\\repos\\ASPNetBillCounterAPI\\Naxxum.JobyHunter.Authentication.Domain\\Authentication.Domain.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\source\\repos\\ASPNetBillCounterAPI\\Naxxum.JobyHunter.Authentication.Domain\\obj\\",
+      "projectPath": "C:\\Users\\Lenovo\\projects\\ASPNetBillCounterAPI\\Naxxum.JobyHunter.Authentication.Domain\\Authentication.Domain.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\projects\\ASPNetBillCounterAPI\\Naxxum.JobyHunter.Authentication.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

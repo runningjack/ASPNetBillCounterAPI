@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NJRJSJJhjo8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\projects\\ASPNetBillCounterAPI\\WpfAppBillCounter\\WpfAppBillCounter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\materialdesigncolors\\3.1.0\\materialdesigncolors.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\materialdesignthemes\\5.1.0\\materialdesignthemes.5.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

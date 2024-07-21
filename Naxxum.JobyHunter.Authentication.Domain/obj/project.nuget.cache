@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lmqWdm4+Q9o=",
+  "dgSpecHash": "TIc/lyboY0U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\ASPNetBillCounterAPI\\Naxxum.JobyHunter.Authentication.Domain\\Authentication.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\projects\\ASPNetBillCounterAPI\\Naxxum.JobyHunter.Authentication.Domain\\Authentication.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DELL\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "C:\\Users\\Lenovo\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
